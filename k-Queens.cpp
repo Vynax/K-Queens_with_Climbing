@@ -3,6 +3,7 @@
 #include<time.h>
 #define Amount 8
 
+
 using namespace std;
 
 class Unit{
